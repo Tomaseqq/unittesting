@@ -1,1 +1,1 @@
-# unittesting
+Tomáš Zlatuška, Petr Havlát
